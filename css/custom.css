@@ -19,3 +19,7 @@ File Description: Place here your custom CSS styles
     /* inline-block space fix */
     margin-right:-4px;
 }
+.img-circle {
+    padding: 10px;
+    border-radius: 20%;
+}
